@@ -1,0 +1,58 @@
+# Laravel / PHP
+/vendor/
+/node_modules/
+.env
+.env.backup
+/.idea/
+/.vscode/
+/.phpunit.result.cache
+/.phpunit/
+/storage/*.key
+/storage/debugbar
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*
+/bootstrap/cache/*.php
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+composer.lock
+
+# Laravel Mix / Vite / Node
+/public/hot
+/public/build/
+/public/mix-manifest.json
+/public/js/app.js
+/public/css/app.css
+/public/css/*.map
+/public/js/*.map
+
+# React / Node
+/admin/node_modules/
+admin/build/
+/admin/.pnp
+admin/.pnp.js
+/admin/.cache
+/admin/dist
+/admin/.parcel-cache
+/admin/.env.local
+/admin/.env.development.local
+/admin/.env.test.local
+/admin/.env.production.local
+/admin/npm-debug.log*
+admin/yarn-debug.log*
+admin/yarn-error.log*
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Composer
+/vendor/
+/composer.phar
