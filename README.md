@@ -81,4 +81,9 @@ npm start
 
 - Admin panel will run at http://localhost:3000 by default.
 - Ensure Laravel API server is running (port 8000 , saved in the .env file)
+- To login in the admin panel use the following credentials:
+ ```
+ email: admin@demo.com
+ pass: adminadmin
+ ```
 
